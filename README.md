@@ -126,11 +126,6 @@ Ovaj projekt pokazuje:
 
 ---
 
-##  Licenca
-
-MIT License
-
----
 
 ##  Autor
 
