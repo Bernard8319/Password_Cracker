@@ -127,6 +127,6 @@ Ovaj projekt pokazuje:
 ---
 
 
-##  Autor
+##  Napomena
 
 Projekt napravljen kao dio učenja cyber securityja i demonstracije razumijevanja password sigurnosti.
