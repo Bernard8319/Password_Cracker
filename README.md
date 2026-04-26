@@ -1,10 +1,10 @@
-# 🔓 Password Cracker (Edukativni projekt)
+# Password Cracker (Edukativni projekt)
 
 Jednostavan alat za demonstraciju kako se mogu razbiti hashirane lozinke. Ovaj projekt je napravljen da pokaže kako napadi funkcioniraju i zašto su jake lozinke i sigurni algoritmi važni.
 
 ---
 
-## ⚠️ Upozorenje
+##  Upozorenje
 
 Ovaj alat je samo za:
 * učenje
@@ -15,7 +15,7 @@ Nemojte ga koristiti za neovlašten pristup tuđim podacima.
 
 ---
 
-## 🚀 Što radi
+##  Što radi
 
 Ovaj alat ima neke korisne funkcije:
 * podrška za hash algoritme: MD5, SHA1, SHA256
@@ -25,7 +25,7 @@ Ovaj alat ima neke korisne funkcije:
 
 ---
 
-## 🧠 Kako funkcionira
+## Kako funkcionira
 
 Alat uzima hash i pokušava pronaći originalni password:
 * **brute-force** generira sve moguće kombinacije znakova
@@ -33,7 +33,7 @@ Alat uzima hash i pokušava pronaći originalni password:
 
 ---
 
-## 📦 Kako instalirati
+##  Kako instalirati
 
 1. Preuzmi repozitorij:
 ```bash
@@ -48,7 +48,7 @@ python password_cracker.py
 
 ---
 
-## ▶️ Kako koristiti
+##  Kako koristiti
 
 Nakon pokretanja:
 
@@ -65,7 +65,7 @@ Nakon pokretanja:
 
 ---
 
-## 📁 Primjer wordlist-a
+##  Primjer wordlist-a
 
 ```text
 password
@@ -77,7 +77,7 @@ letmein
 
 ---
 
-## 🧪 Primjer
+##  Primjer
 
 Hash:
 ```text
@@ -91,7 +91,7 @@ Rezultat:
 
 ---
 
-## 🔒 Sigurnosne lekcije
+##  Sigurnosne lekcije
 
 Ovaj projekt pokazuje:
 * zašto su kratke lozinke loše
@@ -105,7 +105,7 @@ Ovaj projekt pokazuje:
 
 ---
 
-## 💡 Moguća poboljšanja
+##  Moguća poboljšanja
 
 * multithreading za brži brute-force
 * podrška za bcrypt
@@ -115,7 +115,7 @@ Ovaj projekt pokazuje:
 
 ---
 
-## 🛠️ Tehnologije
+##  Tehnologije
 
 * Python 3
 * Standardne biblioteke:
@@ -126,12 +126,12 @@ Ovaj projekt pokazuje:
 
 ---
 
-## 📜 Licenca
+##  Licenca
 
 MIT License
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 Projekt napravljen kao dio učenja cyber securityja i demonstracije razumijevanja password sigurnosti.
